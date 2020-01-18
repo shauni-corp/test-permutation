@@ -22,12 +22,15 @@ Un tableau contenant `nombre2` en première valeur et `nombre1` en seconde.
 - Git
 - NodeJS (et npm)
 
-**Installation du test :**
+**Installation :**
 
 - Dans votre répertoire de travail, clonez ce repository : `git clone git@github.com:shauni-corp/test-permutation.git`
 - Entrez dans le dossier `test-permutation`
 - Installez les librairies avec la commande `npm install`
+
+**Utilisation :**
+
 - Ecrivez votre dans dans le fichier `code.js`
-- Pour tester, lancez la commande `npm run test`. L'objectif est de n'obtenir que des **passed** 
+- Lorsque vous avez fini, lancez la commande `npm run test` dans votre terminal. L'objectif est de n'obtenir que des **passed**.
 
 ## Have fun 😁
