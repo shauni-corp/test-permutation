@@ -1,0 +1,23 @@
+{
+  "name": "test-permutation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node code",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shauni-corp/test-permutation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shauni-corp/test-permutation/issues"
+  },
+  "homepage": "https://github.com/shauni-corp/test-permutation#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
